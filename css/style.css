@@ -1,0 +1,36 @@
+
+div {border: 1px solid #333;
+    padding: 20px;
+    color: rgb(9, 88, 40);
+    width: 300px;
+    display: inline-block;
+}
+div1 {border: 1px solid #333;
+    padding: 20px;
+    color: rgba(8, 32, 128, 0.78);
+    width: 300px;
+    display: inline-block;
+}
+div.container {
+    width: 100%;
+    border: 0;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: green;
+    text-align: center;
+}
+h3{
+    color: rgb(17, 0, 255);
+    text-align: center
+    ;}
+img{
+width: 300px;
+height: 200px;
+}
+h1 {
+color: black;
+}
