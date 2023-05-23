@@ -13,8 +13,21 @@
         box-sizing: border-box;
 
     }
+    h3 {
+        text-align: left;
+        border-bottom: 1px solid #333;
+        max-width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+        box-sizing: border-box;
+    
+    }
     div {
         width: 90%;
+        box-sizing: border-box;
+        margin: 30px 0;
+    }
+    .sea { width: 90%;
         box-sizing: border-box;
         margin: 30px 0;
     }
@@ -26,4 +39,8 @@
     .office{
          color: rgb(13, 2, 155);
     }
+    .manages{
+        color:rgb(8, 58, 13)
+    }
+
 }

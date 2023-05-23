@@ -5,7 +5,7 @@ div {border: 1px solid #333;
     width: 300px;
     display: inline-block;
 }
-div1 {border: 1px solid #333;
+div.sea {border: 1px solid #333;
     padding: 20px;
     color: rgba(8, 32, 128, 0.78);
     width: 300px;
